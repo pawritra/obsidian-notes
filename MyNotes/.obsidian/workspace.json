@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d3911800024700db",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c3dc41129f7e819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36af1390f5ac2cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Glosary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af130c07885f497d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring Boot/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6f73dc2d583ba45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/MVC/Controllers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b84c748ee8830c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/MVC/View.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5ed9abaa3bb16c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Introduction/3.1 IoC - XML Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb1b52494b51aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Introduction/Spring Beans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61116aa5c9867c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9980f4eb857f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58247fecb599d0c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e44b0033fc65dc17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ea56f57f58c9fe5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a18bdf2a2f7537ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aca513062e1356f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90cb7a783d1c1138",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/Introduction/Spring Beans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "663fb145aea48f61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/Introduction/Spring Beans.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80279ef46f16fa11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b77fa251a4ae2d43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Introduction/Spring Beans.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1bb1b52494b51aff",
+  "lastOpenFiles": [
+    "Spring/Introduction/4. Dependecy Injection.md",
+    "Spring/Introduction/PreConstruct and PreDestroy.md",
+    "Spring/Introduction/3. Inversion of Control.md",
+    "Spring/Introduction/2. Setting Up.md",
+    "Spring/Introduction/Spring Beans.md",
+    "Spring/Introduction/3.1 IoC - XML Configuration.md",
+    "Spring/MVC/Database Integration.md",
+    "Spring/MVC/View.md",
+    "Spring/MVC/Controllers.md",
+    "Spring/Spring Boot/Security.md"
+  ]
+}

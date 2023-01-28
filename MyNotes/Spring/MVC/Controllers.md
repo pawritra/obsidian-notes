@@ -5,8 +5,14 @@ Basically you can use 2 types of controllers,
 
 Both are implementations of @Component class. Thus, on using this annotation these endpoints will automatically be added to the Spring Application.
 
-@Controller - 
+# @Controller
 It is used for building MVC application with every endpoint either redirecting or return a View component. You have to return one of the following in this case.
 
-@RestController
+# @RestController
 It on the other hand returns a JSON Body. It is a combination of @Controller and @ResponseBody.
+
+
+# Front Controller
+When a request comes to your Spring Application, it first comes to Front Controller and then the request is delegates to their respective Controllers/Handlers.
+
+# Request Mapping
